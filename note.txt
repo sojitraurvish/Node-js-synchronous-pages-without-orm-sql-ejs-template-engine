@@ -1,0 +1,13 @@
+if i am at this path
+http://localhost:3000/admin/dashboard
+
+then if i write path (category) so it will be * so use this  or
+http://localhost:3000/admin/category
+
+
+then if i write path (admin/category) so it will be 
+http://localhost:3000/admin/admin/category
+
+
+then if i write path (/admin/category) so it will be * so use this 
+http://localhost:3000/admin/category
